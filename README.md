@@ -10,6 +10,13 @@
 ### Project Overview
 This project focused on analyzing an e-commerce company’s sales and profit data to uncover key business insights. Using data visualization tools like Tableau, the goal was to identify sales trends, top products, seasonal performance, and areas for growth. The final dashboard helps stakeholders make informed, data-driven decisions.
 
+![Totalsales and profit per Year](https://github.com/user-attachments/assets/a18de4e9-456f-400f-89fb-43377102b7cf)
+![Total sales and profit per month](https://github.com/user-attachments/assets/725bf3f7-4ea7-4bdf-a8e8-e477512a0c7e)
+![Top selling product](https://github.com/user-attachments/assets/7957acc5-c4fe-4d9b-a7c0-3370f888cb8f)
+![salesregion](https://github.com/user-attachments/assets/70eaa1ae-d4d6-46ca-87f7-7ad1e5fa96b1)
+![profitmargin](https://github.com/user-attachments/assets/dcd1ac65-f4e5-40d2-a193-3c51a8a6ee05)
+![underperforming](https://github.com/user-attachments/assets/9566130c-b13e-4669-9af9-14c8ad3ffcc4)
+
 ### Data Sources
 Superstore Sales: The primary dataset used for this analysis is Sample - Superstore.xls, containing detailed information about each sales and profit made by the company.
 
