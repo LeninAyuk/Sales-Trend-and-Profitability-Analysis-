@@ -17,6 +17,9 @@ This project focused on analyzing an e-commerce company’s sales and profit dat
 ![profitmargin](https://github.com/user-attachments/assets/dcd1ac65-f4e5-40d2-a193-3c51a8a6ee05)
 ![underperforming](https://github.com/user-attachments/assets/9566130c-b13e-4669-9af9-14c8ad3ffcc4)
 
+![EDA Dashboard ](https://github.com/user-attachments/assets/4fb7c4b2-ac27-4a39-bc13-a0ed96bf88ff)
+
+
 ### Data Sources
 Superstore Sales: The primary dataset used for this analysis is Sample - Superstore.xls, containing detailed information about each sales and profit made by the company.
 
